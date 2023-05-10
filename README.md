@@ -2,6 +2,7 @@
 
 - Class Date: May 10 - 11, 2023
 - Facilitator: @dsanchezcr
+- Survey: https://forms.office.com/e/sisZhbhMKB
 
 ## Class Resources
 
